@@ -29,6 +29,7 @@
     }
   },
   "rules": {
+    "jsx-a11y/anchor-is-valid": 0,
     "semi": "error",
     "quotes": "error",
     "react/react-in-jsx-scope": 0,
